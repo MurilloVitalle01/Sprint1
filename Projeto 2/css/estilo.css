@@ -1,0 +1,22 @@
+body{ /*  */
+    background-color: #768082;
+    color: #06d5ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}/*fechando body  */
+
+/* Criando uma classe exemplo */
+.titulo{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.sexta{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    color: burlywood;
+}
+.madrugada{
+    text-align: center;
+    text-shadow: #768082;
+}
